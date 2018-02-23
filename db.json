@@ -1,19 +1,18 @@
 {
-  "posts": [
+  "playlists": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "id": "1",
+      "name": "Pop Hits!",
+      "tracks": [],
+      "color": "#FF0000",
+      "favourite": 1
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": 2,
+      "name": "Movies!",
+      "tracks": [],
+      "color": "#0000FF",
+      "favourite": 0
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
